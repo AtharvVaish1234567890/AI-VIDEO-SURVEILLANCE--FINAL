@@ -1,0 +1,42 @@
+.back_img
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+}
+
+Canvas
+{
+    margin-top: 70px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+}
+
+#status
+{
+    margin-top: -5px;
+}
+
+#number_of_obj
+{
+    margin-top: -10px;
+}
